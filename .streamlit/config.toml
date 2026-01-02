@@ -1,0 +1,11 @@
+[theme]
+base="dark"
+
+primaryColor="#3D195B"          # Premier League purple (accent)
+
+backgroundColor="#0E1117"       # Deep charcoal (not black)
+secondaryBackgroundColor="#32373cff"  # Cards / panels
+
+textColor="#E6E6E6"             # Soft light gray
+
+font="sans serif"
